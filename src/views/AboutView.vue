@@ -20,7 +20,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="Home">Home</a>
+              <a class="nav-link" href="/">Home</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="/about">About</a>
@@ -154,7 +154,7 @@
       <div class="row">
         <div class="col-sm-12">
           <p class="copyright_text">
-            2020 All Rights Reserved. Design by
+            2024 All Rights Reserved. Design by
             <a href="#">Heritier Ganza Tamba</a>
           </p>
         </div>
